@@ -2,10 +2,11 @@
 
 I'm a full-stack software developer (web/mobile) based in New York. Please call me Kimi!
 
-## Open source contfibutions
+## Open source contributions
 
 - https://github.com/rails/rails
 - https://github.com/rmosolgo/graphql-ruby
+- https://github.com/parroty/extwitter
 - https://github.com/laiso/site2pdf
 
 ## Sample repositories
