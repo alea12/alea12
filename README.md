@@ -1,16 +1,14 @@
-## Hi there 👋
+## Kimiyasu Morikawa
 
-<!--
-**alea12/alea12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software developer (web/mobile) based in New York. Please call me Kimi!
 
-Here are some ideas to get you started:
+## Open source contfibutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://github.com/rails/rails
+- https://github.com/rmosolgo/graphql-ruby
+- https://github.com/laiso/site2pdf
+
+## Sample repositories
+
+- https://github.com/alea12/react-native-expo-widget-example
+  - A bare minimum example of how to implement iOS Widgets with React Native on Expo CNG (Managed Workflow).
